@@ -13,9 +13,9 @@ body {
 }
 
 .container {
-    max-width: 80%;
+    max-width: 1290px;
     padding: 10px;
-    margin: 100px auto; 
+    margin: 10px auto; 
     display: grid;
     grid-template-columns: 1fr 1fr;
 
